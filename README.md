@@ -17,6 +17,10 @@ A Pharos Agent Center Skill that enables AI agents to swap tokens on Pharos DEX 
 
 ## Installation
 
+npx skills add https://github.com/vibur-kr/pharos-dex-swap-skill
+
+or manually
+
 Copy the `pharos-dex-swap-skill` folder to your agent's skills directory:
 
 | Agent | Path |
